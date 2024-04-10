@@ -6,21 +6,21 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 # Major Planning
 |Plans|Status|
 |--|--|
-|Home menu | Done ✅|
+|Home menu | Done✅|
 |About menu | In development❗|
 |Sign popup | Not yet developed ❌|
 |List game menu | Not yet developed ❌|
-|etc.| Still on planning|
+|etc.| Still on planning |
 
 # Update
 |Description|Date|Status|
 |--|--|--|
-|Made a home menu | 10/4/2024 | Major Update|
+|Made a home menu | 10/4/2024 | Major Update |
 
 # Errors
-|Description|Status|Cause|
+|Problems|Status|Cause|
 |--|--|--|
-|Video won't play automatic while preload page | Solved✅| GitHub Pages fail/error deployment|
+|Video won't play automatic while preload page | Solved✅| Browser autoplay resriction |
 
 # Preview
 [GitHub Pages](https://hrisz.github.io/zenith_project/)
