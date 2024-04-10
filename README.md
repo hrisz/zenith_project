@@ -19,6 +19,7 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 
 # Preview
 [GitHub Pages](https://hrisz.github.io/zenith_project/)
+*note: the website might be load slowly because I add too many media inside*😂
 
 **Image:**
 ![Home Menu](https://i.ibb.co/4R3XNtd/Screenshot-2024-04-10-161732.png)
