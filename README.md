@@ -20,7 +20,7 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 # Errors
 |Problems|Status|Cause|
 |--|--|--|
-|Video won't play automatic while preload page | Solved✅| Browser autoplay resriction |
+|Video won't play automatic while preload page | Solved✅| Browser autoplay restriction |
 
 # Preview
 [GitHub Pages](https://hrisz.github.io/zenith_project/)
