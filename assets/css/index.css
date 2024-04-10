@@ -24,7 +24,7 @@ div {
   top: 0;
   left: 0;
   pointer-events: none;
-  background: url("../video/kv1.mp4") no-repeat center;
+  background: url(https://wutheringwaves.kurogames.com/website-preface/video/desktop/kv1.mp4) no-repeat center;
   background-size: cover;
   z-index: -2;
 }
