@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no">
+    <title>Zenith Interactive Official</title>
+    <link rel="icon" href="assets/icon/blue-logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Changa">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Russo One">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body>
+    <nav class="h-full min-h-24 max-h-24 flex items-center justify-between">
+        <span class="flex gap-4 items-center ml-auto">
+            <button
+                class="signup-btn border-2 border-transparent border-b-white shadow-transparent hover:border-b-[#d8b57c] hover:border-x-[#d8b57c] transition px-4 py-1 text-white text-sm flex items-center ml-auto hover:shadow-lg hover:shadow-[#d8b57c]/50"><span><img
+                        src="assets/icon/home-logo.png" class="nav-logo" alt="" width="11px"></span>&nbsp;HOME</button>
+            <button
+                class="signup-btn border-2 border-transparent border-b-white shadow-transparent hover:border-b-[#d8b57c] hover:border-x-[#d8b57c] transition px-4 py-1 text-white text-sm flex items-center ml-auto hover:shadow-lg hover:shadow-[#d8b57c]/50"><span><img
+                        src="assets/icon/about-logo.png" class="nav-logo" alt=""
+                        width="11px"></span>&nbsp;ABOUT</button>
+            <button
+                class="signup-btn border-2 border-transparent border-b-white shadow-transparent hover:border-b-[#d8b57c] hover:border-x-[#d8b57c] transition px-4 py-1 text-white text-sm flex items-center ml-auto hover:shadow-lg hover:shadow-[#d8b57c]/50"><span><img
+                        src="assets/icon/sign-logo.png" class="nav-logo" alt=""
+                        width="11px"></span>&nbsp;SIGNIN</button>
+        </span>
+        <img src="assets/img/white-long-logo.png" alt="homelogo"
+            class="home-logo justify-start absolute object-center object-left hidden md:block" width="150px">
+    </nav>
+    <section id="home">
+        <div class="home-container">
+            <div class="mask-bg"></div>
+            <div class="home-bg">
+                <video preload="auto" autoplay loop playsinline id="vid-kv">
+                    <source src="assets/video/kv1.mp4" type="video/mp4" class="src-video">
+                </video>
+            </div>
+            <div class="bottom-effect">
+                <video data-v-fx preload="auto" autoplay loop class="video-effect">
+                    <source src="assets/video/index_loop.mp4" type="video/mp4" class="src-video">
+                </video>
+            </div>
+            <div class="md:container-lg md:mx-auto px-8 h-64 flex flex-col justify-center subcontainer-home">
+                <p
+                    class="text-white text-center text-3xl xs:text-3xl sm:text-4xl md:text-5xl px-8 font-medium drop-shadow-2xl mainmenu-text">
+                    Journey Beyond
+                    the Horizon with Us</p>
+                <hr class="w-48 h-10 mx-auto my-4 bg-white border-0 rounded">
+                <span class="flex justify-center gap-4 py-2">
+                    <button
+                        class="create-acc md:px-4 md:py-1 text-white border-2 border-white rounded-lg shadow-transparent bg-[#d8b57c]/50 px-4 py-1 hover:bg-[#6c5531]/50 hover:shadow-lg hover:shadow-[#d8b57c]/50">CREATE
+                        ACCOUNT</button>
+                    <button
+                        class="create-acc md:px-4 md:py-1 text-white border-2 border-white rounded-lg shadow-transparent bg-black/50 px-4 py-1 hover:bg-[#6c5531]/50 hover:shadow-lg hover:shadow-[#d8b57c]/50">LIST
+                        GAME</button>
+                </span>
+                <p class="text-white md:text-sm text-xs text-center font-medium drop-shadow-2x py-3 mainmenu-subtext">a
+                    game
+                    publisher dedicated to crafting immersive worlds<br>and unforgettable experiences.</p>
+                <div class="relative h-screen">
+                    <div class="fixed bottom-0 right-0 mb-8 mr-8">
+                        <div class="flex justify-center items-center py-2">
+                            <a href="https://github.com/hrisz/zenith_project" class="w-24 md:w-28">
+                                <img class="outline shadow-transparent hover: hover:outline-[#d8b57c] hover:shadow-xl hover:shadow-[#d8b57c]/50 outline-offset-2" src="assets/img/qr-code.png" alt="" width="100px">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+    </section>
+</body>
+
+</html>
