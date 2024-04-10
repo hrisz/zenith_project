@@ -18,9 +18,9 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 |Made a home menu | 10/4/2024 | Major Update|
 
 # Errors
-|Description|Status|
+|Description|Status|Cause|
 |--|--|
-|Video won't play automatic while preload page | Still Investigate|
+|Video won't play automatic while preload page | Fixed✅| GitHub Pages fail/error deployment
 
 # Preview
 [GitHub Pages](https://hrisz.github.io/zenith_project/)
