@@ -16,7 +16,8 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 |Description|Date|Status|
 |--|--|--|
 |Made a home menu | 10/4/2024 | Major Update |
-|Made the nav button to the center position on small screens | 11/4/2024 | Minor Update |
+|Responsiveness nav button in mobile screen | 11/4/2024 | Minor Update |
+|Responsiveness QR image in some smaller screen | 12/4/2024 | Minor Update |
 
 # Errors
 |Problems|Status|Cause|
