@@ -18,7 +18,7 @@ This website is currently made by myself, inspired with Wuthering Waves landing 
 |Made a home menu | 10/4/2024 | Major Update |
 |Responsiveness nav button in mobile screen | 11/4/2024 | Minor Update |
 |Responsiveness QR image in some smaller screen | 12/4/2024 | Minor Update |
-|Add scramble text animation for home main text | 13/4/2024 | Minor Update |
+|Add scramble text animation for home text (slogan) | 13/4/2024 | Minor Update |
 
 # Errors
 |Problems|Status|Cause|
